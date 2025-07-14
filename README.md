@@ -23,11 +23,7 @@ An end-to-end data analysis project using the Zomato dataset.
 
 Due to file size limits on GitHub, the full dataset is available via Google Drive
 
-🔗 [Click here to access files](## 📁 Project Files (Google Drive)
-
-Due to file size limits on GitHub, the full dataset is available via Google Drive:
-
-🔗 [Click here to access files](https://drive.google.com/file/d/your_file_id/view?usp=sharing))
+🔗 [Click here to access files](https://drive.google.com/drive/folders/11cj4U94kanU6BM3v12t3UmAKuK4FaFxb?usp=sharing)
 
 
 ---
