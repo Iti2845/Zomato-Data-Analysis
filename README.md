@@ -19,11 +19,16 @@ An end-to-end data analysis project using the Zomato dataset.
 - `Zomato_Clean.ipynb` – Jupyter Notebook
 - `Zomato_Cleaned.csv` – Cleaned dataset
 
-## Project Files (Google Drive)
+## 📁 Project Files (Google Drive)
+
+Due to file size limits on GitHub, the full dataset is available via Google Drive
+
+🔗 [Click here to access files](## 📁 Project Files (Google Drive)
 
 Due to file size limits on GitHub, the full dataset is available via Google Drive:
 
-🔗 [Click here to access files](https://drive.google.com/file/d/your_file_id/view?usp=sharing)
+🔗 [Click here to access files](https://drive.google.com/file/d/your_file_id/view?usp=sharing))
+
 
 ---
 By Itika Dey • Aspiring Data Analyst
